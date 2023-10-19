@@ -1,6 +1,6 @@
 {
-  "homepage": "https://zinlin59.github.io/react-admin-dashboard",
-  "name": "react-admin-dashboard",
+  "homepage": "https://github.com/zinlin59/admindashboard-react.git",
+  "name": "admindashboard-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
